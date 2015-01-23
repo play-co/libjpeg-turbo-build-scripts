@@ -1,7 +1,8 @@
-libjpegturbo-build-tools
-========================
+libjpeg-turbo-build-scripts
+===========================
 
-Build script for producing universal library.
+Build scripts for producing universal libjpeg-turbo libraries with 64 bit
+support targeting iOS.
 
 ## Instructions
 
