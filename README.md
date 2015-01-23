@@ -2,7 +2,7 @@ libjpeg-turbo-build-scripts
 ===========================
 
 Build scripts for producing universal libjpeg-turbo libraries with 64 bit
-support targeting iOS.
+support targeting iOS. All architectures are built with SIMD support.
 
 ## Instructions
 
